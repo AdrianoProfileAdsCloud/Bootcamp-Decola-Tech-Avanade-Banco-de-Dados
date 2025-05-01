@@ -61,3 +61,10 @@ Frameworks aceleram o desenvolvimento, mas entender os conceitos por trás é es
 <br>
 
 ![Certificado](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Decola-Tech-Avanade-Banco-de-Dados/blob/main/images/Banco%20de%20dados.jpg)
+
+
+<br>
+
+
+## Observação:
+   Este projeto tem como propósito para fins acadêmicos,o código que compoem este projeto é fruto das aulas ministradas no módulo de Banco de dados do bootcamp. Entretando o código foi reproduzido passo a passo a medida que foi explicado.Me possibilitando me eprofundar mais nos problemas que iam aparecendo ao longo do desenvolvimento.
