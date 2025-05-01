@@ -57,3 +57,7 @@ Frameworks aceleram o desenvolvimento, mas entender os conceitos por trás é es
 
 
   <p>Saber Modelar um Banco de Dados é muito importante. Mesmo que na maioria dos projetos não tenhamos tanto contato ou acesso; mas entender o processo e fundamental no meu ponto de vista.  Assim como conhecer os recursos de um SBG como Triggers, Procedures e View são muito importantes para propor soluções mais robustas e performáticas.</p>
+
+<br>
+
+![Certificado](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Decola-Tech-Avanade-Banco-de-Dados/blob/main/images/Banco%20de%20dados.jpg)
